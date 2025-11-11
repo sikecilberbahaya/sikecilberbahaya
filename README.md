@@ -22,34 +22,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sikecilberbahaya"  />
 </div>
 
-###
-
-
-
-###
-
-
-
-###
-
-
-
-###
-
-<br clear="both">
-
-<h3 align="center">🛠 Language and tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
-
-
-
-
