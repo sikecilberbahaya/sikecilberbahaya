@@ -22,3 +22,19 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sikecilberbahaya"  />
 </div>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sikecilberbahaya&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://ko-fi.com/yanekaputra" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
