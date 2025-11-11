@@ -7,39 +7,6 @@
 </div>
 
 ---
-
-## 🚀 About Me
-
-🎯 Passionate developer focused on building innovative solutions  
-💻 Always learning and exploring new technologies  
-🌟 Open source enthusiast and contributor  
-📚 Continuous learner in the ever-evolving tech landscape  
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sikecilberbahaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikecilberbahaya&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sikecilberbahaya&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sikecilberbahaya&theme=tokyonight)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
