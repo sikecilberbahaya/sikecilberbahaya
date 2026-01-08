@@ -19,8 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sikecilberbahaya"  />
-  <img src="https://komarev.com/ghpvc/?username=sikecilberbahaya&&style=flat-square" align="center" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sikecilberbahaya"  />  
 </div>
 
   
